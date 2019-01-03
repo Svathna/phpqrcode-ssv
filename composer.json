@@ -1,0 +1,14 @@
+{
+    "name": "cs3/test",
+    "description": "testing project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "SereyVathna",
+            "email": "s.s.vathna@gmail.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^3.5"
+    }
+}
